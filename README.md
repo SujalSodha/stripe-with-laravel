@@ -2,7 +2,7 @@
 
 ## Description
 
-This Laravel project demonstrates a comprehensive integration with Stripe for handling payments. It provides a robust foundation for any e-commerce platform, subscription service, or any application requiring payment processing capabilities.
+This Laravel project demonstrates a comprehensive integration with Stripe for handling payments. It provides a robust foundation for any e-commerce platform, or any application requiring payment processing capabilities.
 
 ## Features
 
