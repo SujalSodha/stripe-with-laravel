@@ -18,8 +18,8 @@ This Laravel project demonstrates a comprehensive integration with Stripe for ha
 To set up this project on your local machine, follow these steps:
 
 1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/your-username/stripe-with-laravel.git
+   ```sh 
+   git clone https://github.com/SujalSodha/stripe-with-laravel.git
    cd laravel-stripe-project
    ```
    
